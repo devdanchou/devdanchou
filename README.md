@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm a Fixed Income Analyst turned software engineer. :chart_with_upwards_trend::man_technologist:
+ I'm a fixed income analyst turned software engineer. :chart_with_upwards_trend::man_technologist:
 
 
 <!--
